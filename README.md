@@ -1,9 +1,6 @@
-# iOS-Portfolio
-2018-2019 Portfolio
+# iOS Portfolio
+2020-2021 Portfolio
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 9th grade, in the class AP Computer Science Principles, in which I made apps using MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. I am currently taking iOS App development in which I am learning Swift. So far this year, I have made 1 working app, and am currently working on another app with some classmates. I have so far learned basic syntax for Swift, and have experimented a bit in many different areas, including animations, SpriteKit, and storyboards.
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
-
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
-
+## Apps and Projects
