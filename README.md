@@ -11,5 +11,10 @@ This was a game i created last year with classmates. In the process of making th
 This is my first XCode app. I made it with many buttons all organized in mazy VStacks, HStacks, and ZStacks. Since this was my first app, I did not have the knowledge to implement a way for it to the operations in the correct order, and only knew how to make it do the operations in the order they were entered. Since then, I have learned much more, and if I ever get back to improving this app, I will implement order of operations into it.
 
 ### [Infection Tag](https://github.com/sarthyparty/Infection-Tag)
+This is the game I am currently working on. As of the day when I am writing this, we just finished making a working Wall class for interaction with the player. Our next steps are to create the game logic, such as the infection mechanic, and possibly powerups, and make it an online game and add functionality to play with other people. As of now, we have created a moving character with animations, a base map for the game, and a Wall class.
 
+## Programming Experience
+MIT App Inventor(started in 2018)
+Java(started in 2019)
+Swift(started in 2020)
 
