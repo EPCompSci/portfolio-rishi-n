@@ -10,8 +10,8 @@ This was a game I created last year with classmates. In the process of making th
 ### [Calculator](https://github.com/rishi-n/calculator)
 This is my first XCode app. I made it with many buttons all organized in many VStacks, HStacks, and ZStacks. Since this was my first app, I did not have the knowledge to implement a way for it to do the operations in the correct order, and only knew how to make it do the operations in the order they were entered. Since then, I have learned much more, and if I ever get back to improving this app, I will implement order of operations into it.
 
-### [Infection Tag](https://github.com/sarthyparty/Infection-Tag)
-This is the game I am currently working on. As of the day when I am writing this, we just finished making a working Wall class for interaction with the player. Our next steps are to create the game logic, such as the infection mechanic, and possibly powerups, and make it an online game and add functionality to play with other people. As of now, we have created a moving character with animations, a base map for the game, and a Wall class.
+### [Apocalypse Survivor](https://github.com/sarthyparty/Infection-Tag)
+This is the game that I have most recently finished, and it is in the appstore. It is a fully functioning game, with many features, such as moving a character with a joystick, zombies that follow your character and merge into bigger zombies if they collide, a boost button, and many more. As of today, we have submitted version 1.2 to the appstore, whic contains features such as a score system, a gun to shoot zombies and ammo to pick up, and a puse screen with the option to resize the joystick and change its position, and flip the controls. We used many aspects of GameKit and SpriteKit to create this game, and used PhysicsBodies for the interactions between all the sprites. Our next goal is adding music, and implementing a co-op mode to play with other people.
 
 ## Programming Experience
 MIT App Inventor(started in 2018)
