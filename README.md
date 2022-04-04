@@ -6,8 +6,12 @@ Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've m
 ### [Paper Man Adventures](https://github.com/EPHS-iOS/VolcanicPanic)
 This is an app I worked on to refresh my knowledge of XCode and Swift. It is a barebones remake of Volcanic Panic, a game I made a couple years ago in Java, but this time it is in Swift. I learned how to use SpriteKit to assist in making a game in XCode. 
 
+![IMG_0010](https://user-images.githubusercontent.com/61213336/161586156-83bee657-82a5-458e-97f3-7d65293e23e6.PNG)
+
 ### [Knight (temporary name)](https://github.com/EPHS-iOS/knight)
 This is the app I am currently working on with a couple of classmates. It going to be a Metroidvania style platformer, which means that it is a two-dimensional open world game in which you control a character and fight enemies. As of writing this, we have got the main character to move and attack, and a mostly working enemy skeleton. We used a tile-map to make the map, which was a new feature that I learned how to use.
+
+![IMG_0012](https://user-images.githubusercontent.com/61213336/161586071-c5689560-0b6f-40f3-bc2d-d1f0d04e34b6.PNG)
 
 #### 2020-2021
 ### [Calculator](https://github.com/rishi-n/calculator)
@@ -15,6 +19,8 @@ This was my first XCode app. I made it with many buttons all organized in many V
 
 ### [Apocalypse Survivor](https://github.com/sarthyparty/Infection-Tag)
 This is the game that I worked on with friends, and it is in the appstore. It is a fully functioning game, with many features, such as moving a character with a joystick, zombies that follow your character and merge into bigger zombies if they collide, a boost button, and many more. As of today, we have submitted version 1.2 to the appstore, which contains features such as a score system, a gun to shoot zombies and ammo to pick up, and a puse screen with the option to resize the joystick and change its position, and flip the controls. We used many aspects of SpriteKit to create this game, and used PhysicsBodies for the interactions between all the sprites.
+
+![IMG_0013](https://user-images.githubusercontent.com/61213336/161586016-4163d77b-48fb-4c46-b97d-86ae0c07a848.PNG)
 
 #### 2019-2020
 ### [Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
