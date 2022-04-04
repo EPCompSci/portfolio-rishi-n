@@ -17,6 +17,8 @@ This is the app I am currently working on with a couple of classmates. It going 
 ### [Calculator](https://github.com/rishi-n/calculator)
 This was my first XCode app. I made it with many buttons all organized in many VStacks, HStacks, and ZStacks. Since this was my first app, I did not have the knowledge to implement a way for it to do the operations in the correct order, and only knew how to make it do the operations in the order they were entered. Since then, I have learned much more, and if I ever get back to improving this app, I will implement order of operations into it.
 
+![Screen Shot 2022-04-04 at 11 12 42 AM](https://user-images.githubusercontent.com/61213336/161586824-df1a11cd-1b6b-4ae1-8a6d-8bb2f4902f63.png)
+
 ### [Apocalypse Survivor](https://github.com/sarthyparty/Infection-Tag)
 This is the game that I worked on with friends, and it is in the appstore. It is a fully functioning game, with many features, such as moving a character with a joystick, zombies that follow your character and merge into bigger zombies if they collide, a boost button, and many more. As of today, we have submitted version 1.2 to the appstore, which contains features such as a score system, a gun to shoot zombies and ammo to pick up, and a puse screen with the option to resize the joystick and change its position, and flip the controls. We used many aspects of SpriteKit to create this game, and used PhysicsBodies for the interactions between all the sprites.
 
