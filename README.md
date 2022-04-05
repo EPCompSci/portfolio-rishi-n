@@ -28,6 +28,8 @@ This is the game that I worked on with friends, and it is in the appstore. It is
 ### [Volcanic Panic](https://github.com/EPHS-Java-2020/final-post-ap-project-2020-team-idk-name)
 This was a game I created with classmates in Java. In the process of making this game, I learned a lot about utilizing JFrames and JPanels. I also incorporated a timer into this game to keep track of the score. KeyListeners and ActionListeners were used to allow the arrow keys be used to move the character and to refresh the scene of the game 60 times a second. 
 
+![Screen Shot 2022-04-05 at 10 13 28 AM](https://user-images.githubusercontent.com/61213336/161787075-c4d8674c-9ae3-46cf-91ba-027faf7a28f6.png)
+
 ## Programming Experience
 MIT App Inventor(started in 2018)
 
