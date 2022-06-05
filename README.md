@@ -8,7 +8,7 @@ This is an app I worked on to refresh my knowledge of XCode and Swift. It is a b
 
 ![IMG_0010](https://user-images.githubusercontent.com/61213336/161586156-83bee657-82a5-458e-97f3-7d65293e23e6.PNG)
 
-### [Spelunk Knight)](https://github.com/EPHS-iOS/knight)
+### [Spelunk Knight](https://github.com/EPHS-iOS/knight)
 This is the app I made with a couple of classmates. It is a Metroidvania style platformer, which means that it is a two-dimensional open world game in which you control a character and fight enemies. We have successfully gotten it on the app store, and have an update planned. THe main character starts off with just a punching attack, but more attacks can be unlocked as you progress through the game. There are 3 types of enemies: a bat, a rat, and a skeleton. There is also a boss battle against a strong boss enemy. We used a tile-map to make the map, which was a new feature that I learned how to use. We also used SpriteKit Scenes to make the map, and had seperate files for each enemy.
 
 ![IMG_0012](https://user-images.githubusercontent.com/61213336/161586071-c5689560-0b6f-40f3-bc2d-d1f0d04e34b6.PNG)
