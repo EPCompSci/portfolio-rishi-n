@@ -11,9 +11,11 @@ This is an app I worked on to refresh my knowledge of XCode and Swift. It is a b
 ### [Spelunk Knight](https://github.com/EPHS-iOS/knight)
 This is the app I made with a couple of classmates. It is a Metroidvania style platformer, which means that it is a two-dimensional open world game in which you control a character and fight enemies. We have successfully gotten it on the app store, and have an update planned. The main character starts off with just a punching attack, but more attacks can be unlocked as you progress through the game. There are 3 types of enemies: a bat, a rat, and a skeleton. There is also a boss battle against a strong boss enemy. We used a tile-map to make the map, which was a new feature that I learned how to use. We also used SpriteKit Scenes to make the map, and had seperate files for each enemy.
 
-![IMG_0012](https://user-images.githubusercontent.com/61213336/161586071-c5689560-0b6f-40f3-bc2d-d1f0d04e34b6.PNG)
+![IMG_0451](https://user-images.githubusercontent.com/61213336/172196375-574aff75-57cc-4746-817d-04bdefc3e371.png)
+![Screen Shot 2022-06-06 at 10 32 46 AM](https://user-images.githubusercontent.com/61213336/172196396-27f899b9-3fca-4ad9-af06-56328a675cad.png)
 
 #### 2020-2021
+
 ### [Calculator](https://github.com/rishi-n/calculator)
 This was my first XCode app. I made it with many buttons all organized in many VStacks, HStacks, and ZStacks. Since this was my first app, I did not have the knowledge to implement a way for it to do the operations in the correct order, and only knew how to make it do the operations in the order they were entered. Since then, I have learned much more, and if I ever get back to improving this app, I will implement order of operations into it.
 
