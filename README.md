@@ -1,5 +1,5 @@
 # iOS Portfolio
-Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 9th grade, in the class AP Computer Science Principles, in which I made apps using MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. In 11th grade, I took an iOS App development in which I learned Swift. In 12th grade, I took the class again to learn more swift and make more apps. So far this year, I have made 1 working app as practice, and am currently working on another app with some classmates. 
+Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 9th grade, in the class AP Computer Science Principles, in which I made apps using MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. In 11th grade, I took an iOS App development in which I learned Swift. In 12th grade, I took the class again to learn more swift and make more apps. This year, I have made 2 apps, 1 as practice and one as a project with my friends. The one i made with friends is now in the app store.
 
 ## Apps and Projects
 #### 2021-2022
