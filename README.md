@@ -7,7 +7,8 @@ Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've m
 This is a web app that I developed during MadHacks 2023 with team of 4. Jotter allows the user to upload a image or pdf with text, and user can decide whether they want the output to be a true or false quiz, multiple choice quiz, short answer quiz, or a cheatsheet based on the text in the input file. We used React to create the frontend and Flask for backend, used POST and GET requests to transfer data between the two. We also used pytesseract and pymupdf to convert input to text, then used OpenAI API to prompt Chat GPT
 
 <img width="1470" alt="Screenshot 2023-11-20 at 2 15 30 PM" src="https://github.com/EPCompSci/portfolio-rishi-n/assets/61213336/1d1ae6dd-48aa-4222-9160-fc8beed08ffd">
-![Screenshot_2023-11-12_at_11 59 42_AM](https://github.com/EPCompSci/portfolio-rishi-n/assets/61213336/9a064ec9-74d9-46d0-af5b-0008dbc1ce30)
+![Screenshot_2023-11-12_at_11 59 42_AM](https://github.com/EPCompSci/portfolio-rishi-n/assets/61213336/e06c75e1-8b5a-4a0b-a4b9-fa0696104e27)
+
 
 
 #### 2021-2022
