@@ -2,6 +2,10 @@
 Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 9th grade, in the class AP Computer Science Principles, in which I made apps using MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. In 11th grade, I took an iOS App development in which I learned Swift. In 12th grade, I took the class again to learn more swift and make more apps. This year, I have made 2 apps, 1 as practice and one as a project with my friends. The one i made with friends is now in the app store.
 
 ## Apps and Projects
+#### 2023
+### [Jotter](https://github.com/viswa-nadimpalli/madhacks-f23)
+This is a web app that I developed during MadHacks 2023 with team of 4. Jotter allows the user to upload a image or pdf with text, and user can decide whether they want the output to be a true or false quiz, multiple choice quiz, short answer quiz, or a cheatsheet based on the text in the input file. We used React to create the frontend and Flask for backend, used POST and GET requests to transfer data between the two. We also used pytesseract and pymupdf to convert input to text, then used OpenAI API to prompt Chat GPT
+
 #### 2021-2022
 ### [Paper Man Adventures](https://github.com/EPHS-iOS/VolcanicPanic)
 This is an app I worked on to refresh my knowledge of XCode and Swift. It is a barebones remake of Volcanic Panic, a game I made a couple years ago in Java, but this time it is in Swift. I learned how to use SpriteKit to assist in making a game in XCode. 
