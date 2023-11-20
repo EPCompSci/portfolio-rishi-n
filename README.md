@@ -6,6 +6,8 @@ Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've m
 ### [Jotter](https://github.com/viswa-nadimpalli/madhacks-f23)
 This is a web app that I developed during MadHacks 2023 with team of 4. Jotter allows the user to upload a image or pdf with text, and user can decide whether they want the output to be a true or false quiz, multiple choice quiz, short answer quiz, or a cheatsheet based on the text in the input file. We used React to create the frontend and Flask for backend, used POST and GET requests to transfer data between the two. We also used pytesseract and pymupdf to convert input to text, then used OpenAI API to prompt Chat GPT
 
+<img width="1470" alt="Screenshot 2023-11-20 at 2 15 30 PM" src="https://github.com/EPCompSci/portfolio-rishi-n/assets/61213336/1d1ae6dd-48aa-4222-9160-fc8beed08ffd">
+
 #### 2021-2022
 ### [Paper Man Adventures](https://github.com/EPHS-iOS/VolcanicPanic)
 This is an app I worked on to refresh my knowledge of XCode and Swift. It is a barebones remake of Volcanic Panic, a game I made a couple years ago in Java, but this time it is in Swift. I learned how to use SpriteKit to assist in making a game in XCode. 
